@@ -9,3 +9,8 @@ Download the files and run them
 
 ## Linux & MacOS 
 These notepad viruses are .bat files and therefor will not work on Linux & MacOS. I might make some in the future though
+
+
+# AGREEMENT
+
+By using these files, you agree that WHATEVER happens is your fault. **THIS IS USE AT YOUR OWN RISK**
